@@ -1,4 +1,4 @@
-// projectb miray dalgin
+// projectb
 //miray dalgin teammate; mouli
 void printString(char*);
 void readString(char*);
