@@ -1,5 +1,5 @@
 // projectb
-//miray dalgin teammate; mouli
+
 void printString(char*);
 void readString(char*);
 void readSector(char*,int);
